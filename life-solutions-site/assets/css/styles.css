@@ -516,3 +516,62 @@ p{margin:0 0 18px}
   transform: scale(1.75);
   box-shadow: 0 28px 70px rgba(0, 0, 0, 0.22);
 }
+/* Ajustes responsivos para celular */
+@media (max-width: 768px) {
+  .grid-2,
+  .grid-3,
+  .grid-5 {
+    grid-template-columns: 1fr;
+  }
+
+  .header-inner {
+    flex-wrap: wrap;
+  }
+
+  .nav {
+    display: none;
+    width: 100%;
+    flex-direction: column;
+    gap: 12px;
+    padding: 16px 0;
+  }
+
+  .nav.open {
+    display: flex;
+  }
+
+  .header-actions {
+    margin-left: auto;
+  }
+
+  .hero,
+  .page-hero {
+    height: auto;
+    min-height: auto;
+    padding: 70px 0 50px;
+  }
+
+  .hero-text,
+  .page-hero .lead {
+    max-width: 100%;
+  }
+
+  .feature-media img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+  }
+
+  .card {
+    padding: 22px;
+  }
+
+  .cta-band {
+    grid-template-columns: 1fr;
+    padding: 32px;
+  }
+
+  .spec-table {
+    min-width: 700px;
+  }
+}
