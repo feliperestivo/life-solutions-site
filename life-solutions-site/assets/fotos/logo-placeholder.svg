@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 130">
+  <rect width="520" height="130" rx="26" fill="#CD8C52"/>
+  <path d="M78 76 C40 42, 96 20, 104 55 C115 18, 166 44, 129 77 L104 102 Z" fill="#fff"/>
+  <path d="M47 72 H77 L88 52 L101 86 L114 63 H144" fill="none" stroke="#CD8C52" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="175" y="62" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#fff">Life</text>
+  <text x="175" y="97" font-family="Arial, sans-serif" font-size="34" font-weight="300" fill="#fff">Solutions</text>
+</svg>
