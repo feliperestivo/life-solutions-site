@@ -283,19 +283,19 @@ p{margin:0 0 18px}
 }
 
 .product-card:nth-child(1) .fake-icon{
-  background-image:url("../fotos/stentini.png");
+  background-image:url("../fotos/stentINI.png");
 }
 
 .product-card:nth-child(2) .fake-icon{
-  background-image:url("../fotos/balaoini.png");
+  background-image:url("../fotos/balaoINI.png");
 }
 
 .product-card:nth-child(3) .fake-icon{
-  background-image:url("../fotos/balaofini.png");
+  background-image:url("../fotos/balaofINI.png");
 }
 
 .product-card:nth-child(4) .fake-icon{
-  background-image:url("../fotos/taviini.png");
+  background-image:url("../fotos/taviINI.png");
 }
 
 .product-card:nth-child(5) .fake-icon{
