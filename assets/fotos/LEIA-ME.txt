@@ -1,0 +1,15 @@
+Coloque suas imagens nesta pasta.
+
+Sugestões de nomes para substituir depois:
+- logo.png
+- hero.jpg
+- quem-somos.jpg
+- stents.jpg
+- baloes.jpg
+- balao-farmacologico.jpg
+- tavi.jpg
+- oclusores.jpg
+- aplicacoes.jpg
+
+O site já está preparado para usar placeholders visuais por CSS/SVG.
+Quando tiver as fotos reais, basta colocar aqui e trocar os caminhos no HTML.
